@@ -1,2 +1,2 @@
 # internship
-this is basic project build by maven 
+This is basic java project build by using maven 
