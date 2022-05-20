@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>MavenProject</artifactId>
-    <packaging>packaging</packaging>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>SharedLibrary</module>
